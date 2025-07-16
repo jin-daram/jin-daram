@@ -10,6 +10,8 @@
 [![My Skills](https://skillicons.dev/icons?i=nginx,redis,jenkins,aws,ubuntu,docker,kubernetes,git,notion)](https://skillicons.dev)
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jindaram)](https://solved.ac/jindaram/)-->
+## Activity
+• DND 13기 (2025.07 ~ 2025.08)
 </div>
 <!--
 **jin-daram/jin-daram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
