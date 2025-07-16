@@ -12,6 +12,10 @@
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jindaram)](https://solved.ac/jindaram/)-->
 ## Activity
 • DND 13기 (2025.07 ~ 2025.08)
+
+## Latest Post
+• [JVM의 JIT Compiler의 기본](https://jindaram.site/jvm/)<br>
+• [OCR 기반 제목 추출 알고리즘 개선기](https://jindaram.site/ocr/)
 </div>
 <!--
 **jin-daram/jin-daram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,5 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
